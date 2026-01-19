@@ -1,6 +1,6 @@
-# Hi, I'm Mikus Grosbergs 👋  
+# Hi, I'm Senior AI & Full-Stack Engineer 👋  
 
-Senior Applied AI & Full‑Stack Engineer • Building reliable, production‑grade AI systems
+Building reliable, production‑grade AI systems
 
 ---
 
