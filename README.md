@@ -32,28 +32,6 @@ I build production-grade AI products and scalable web platforms for startups —
 
 <hr/>
 
-## Selected work (pin these repos)
-> Replace links/titles with your real projects. Keep each entry outcome-driven.
-
-### **1) AgentOps Starter Kit** — Production LLM agent scaffolding
-- Tool calling · retries/fallbacks · tracing · prompt/versioning · eval harness  
-- Demo: https://github.com/[you]/agentops-starter · Live: https://[demo_link]
-- Notes: Architecture, safety guardrails, and monitoring included.
-
-### **2) RAG Quality Toolkit** — Grounded retrieval + evaluation
-- Hybrid retrieval · reranking · citation grounding · dataset-based evals  
-- Demo: https://github.com/[you]/rag-quality-toolkit · Report: https://[link]
-
-### **3) Full-Stack SaaS Template** — React + API + Postgres + Auth
-- Multi-tenant patterns · secure DB access · role-based UI · CI/CD  
-- Repo: https://github.com/[you]/saas-template · Live: https://[demo_link]
-
-### **4) Webhooks & Payments Reliability Patterns** — Idempotency + replay safety
-- Webhook verification · dedupe · backoff/retries · audit logs  
-- Repo: https://github.com/[you]/webhooks-reliability
-
-<hr/>
-
 ## Core skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,django,postgres,mysql,redis,docker,kubernetes,aws,gcp,azure,githubactions,terraform,graphql,tailwind,vite,storybook,pytest,pytorch,tensorflow&perline=13" />
