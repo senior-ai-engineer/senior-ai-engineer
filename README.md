@@ -68,12 +68,66 @@ I build production-grade AI products and scalable web platforms for startups —
 <hr/>
 
 ## Core skills
-### AI / Agents / LLM
-- Tool-using agents, orchestration, retries/fallbacks, routing, safety guardrails
-- Retrieval Augmented Generation (RAG), embeddings, reranking, eval harnesses
-- Prompt versioning, offline tests, regression checks, production monitoring
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,cpp,cs,php,bash&perline=12" />
+</p>
 
-### Full-Stack Engineering
-- **Frontend:** React 18, Next.js, TypeScript, Tailwind, shadcn/ui, Storybook, Vitest
-- **Backend:** Python (FastAPI/Django), Node (Express/Fastify), REST/GraphQL, WebSockets
-- **Data:** Postgres (RLS/JSONB/triggers), Redis, background jobs (Cele
+### AI / LLM / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=12" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evals%20%26%20Benchmarking-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Versioning-111111?style=for-the-badge" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,redux,storybook,vite,webpack&perline=12" />
+  <img src="https://img.shields.io/badge/React%20Query-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%20%26%20Performance-111111?style=for-the-badge" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,swift,kotlin&perline=12" />
+</p>
+
+### Backend / APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,graphql&perline=12" />
+  <img src="https://img.shields.io/badge/WebSockets-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Idempotency%20%26%20Rate%20Limits-111111?style=for-the-badge" />
+</p>
+
+### Databases / Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,rabbitmq&perline=12" />
+  <img src="https://img.shields.io/badge/Queues%20%26%20Background%20Jobs-111111?style=for-the-badge" />
+</p>
+
+### Cloud / DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions&perline=12" />
+  <img src="https://img.shields.io/badge/Pulumi-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" />
+</p>
+
+### Observability / Security
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry&perline=12" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLI%2FSLO-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC%20%26%20Postgres%20RLS-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOC2%20%2F%20GDPR-111111?style=for-the-badge" />
+</p>
+
+### Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,pytest,cypress&perline=12" />
+</p>
+
