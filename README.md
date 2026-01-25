@@ -13,6 +13,9 @@ I build production-grade AI products and scalable web platforms for startups —
 <b>Focus:</b> LLM Agents • RAG • React/TypeScript • Python/Node • Postgres • Cloud/Observability
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <hr/>
 
 ## What I do (startup-ready)
