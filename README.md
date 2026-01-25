@@ -1,112 +1,79 @@
-<!--
-GitHub Profile README
-Repo name MUST equal your GitHub username for this to render on your profile.
-Replace placeholders like <...> and remove any sections you don’t want.
--->
+<!-- =======================
+ GitHub Profile README
+ Copy-paste as-is into: https://github.com/<username>/<username>
+======================== -->
 
-<div align="left">
+<h1 align="center">Senior AI / Full-Stack Engineer</h1>
 
-# AI / Full-Stack Engineer (Production Systems)
-
-I build **production-grade AI systems**—LLM features, **RAG**, and **agent workflows**—with a focus on **evaluation, observability, and reliable delivery**.
-
-<a href="<YOUR_PORTFOLIO_OR_NOTION_LINK>"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-<a href="mailto:<YOUR_EMAIL>"><img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white" /></a>
-<a href="<YOUR_CALENDLY_OR_CONTACT_LINK>"><img src="https://img.shields.io/badge/Book%2015%20min-000000?logo=googlecalendar&logoColor=white" /></a>
-<a href="<YOUR_DISCORD_SERVER_OR_DM_INSTRUCTIONS_LINK>"><img src="https://img.shields.io/badge/Discord-000000?logo=discord&logoColor=white" /></a>
-
-</div>
-
----
-
-## What I ship
-- **RAG and knowledge systems** that reduce hallucinations and improve answer quality with measurable evals  
-- **Tool-using agents** with retries/fallbacks/escalation, idempotency, and audit trails  
-- **Evaluation + observability** (golden sets, regression suites, tracing, cost/latency KPIs) to keep AI reliable in production  
-- **Backend/data foundations** (APIs, Postgres, queues, integrations) that make AI features real and maintainable  
-
----
-
-## Selected work (best proof)
-> Keep this to **3** items. Outcomes matter more than features.
-
-- **<PROJECT A NAME>** — <one-line outcome: quality / cost / latency / reliability>  
-  Repo: <LINK> · Demo/Live: <LINK> · Notes/Case Study: <LINK>
-
-- **<PROJECT B NAME>** — <one-line outcome: eval harness / observability / regressions prevented>  
-  Repo: <LINK> · Demo: <LINK>
-
-- **<PROJECT C NAME>** — <one-line outcome: shipped feature / ops reduction / integration>  
-  Repo: <LINK> · Demo/Live: <LINK>
-
----
-
-## Mini case study (5 lines)
-**Problem:** <e.g., RAG chatbot produced incorrect answers and citations were inconsistent>  
-**Constraints:** <latency/cost/privacy/compliance/timeline>  
-**Approach:** <hybrid retrieval + reranking + eval baseline + guardrails + telemetry>  
-**Result:** <metric 1> · <metric 2> · <metric 3>  
-**Why it worked:** measurable baselines + instrumentation + iterative, risk-managed fixes  
-
----
-
-## How I work (reliability-first)
-- Start with a **failure-mode audit** → propose 2–3 options with tradeoffs
-- Establish **eval baselines** before tuning (so improvements are measurable)
-- Ship in small increments with **staging previews** and rollback-friendly releases
-- Provide **handoff-ready docs**: architecture notes, runbooks, and “how to extend” guides
-
----
-
-## Skills (rich icons)
-
-### AI / LLM Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-000000?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agents-000000?logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Evaluation-000000?logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Observability-000000?logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-000000?logo=pytorch&logoColor=white" />
+<p align="center">
+I build production-grade AI products and scalable web platforms for startups — from 0→1 prototypes to reliable, monitored systems.
 </p>
 
-### Core Engineering Toolbox (icon grid)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="34" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="34" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="34" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="GCP" />
+<p align="center">
+<b>Focus:</b> LLM Agents • RAG • React/TypeScript • Python/Node • Postgres • Cloud/Observability
 </p>
 
----
+<p align="center">
+<b>Discord:</b> <i>[your_discord_handle]</i> &nbsp;·&nbsp;
+<b>Email:</b> <i>[your_email]</i> &nbsp;·&nbsp;
+<b>Timezone:</b> <i>UTC+1</i> &nbsp;·&nbsp;
+<b>Open to:</b> Senior/Staff + Founding Engineer (AI / Full-Stack)
+</p>
 
-## What I’m optimizing for
-- **Measurable AI quality:** evals, regression tests, and monitoring
-- **Operational excellence:** tracing, error taxonomy, cost/latency control
-- **Maintainability:** readable code, clean interfaces, practical architecture
-- **Security & privacy by default:** least privilege, safe tool access, data handling discipline
+<p align="center">
+<a href="https://www.linkedin.com/in/[your_linkedin]/">LinkedIn</a> ·
+<a href="https://[your_portfolio_domain]/">Portfolio</a> ·
+<a href="https://cal.com/[your_handle]">Calendar</a>
+</p>
 
----
+<hr/>
 
-## Open to
-- Contract / consulting / full-time (remote-friendly)
-- AI product engineering, RAG/agents, eval/observability, backend-heavy AI systems
+## What I do (startup-ready)
+- Build **LLM agents** with tool-calling, retries/fallbacks, guardrails, and human-in-the-loop escalation.
+- Ship **RAG systems** that stay grounded: chunking strategy, hybrid retrieval, reranking, citations, eval harness, and monitoring.
+- Deliver **fast, consistent UI** in React/Next.js with clean state management, testing, and performance discipline.
+- Engineer **reliable backends**: FastAPI/Django/Node, Postgres, queues, webhooks, idempotency, rate-limits, and observability.
+- Own features end-to-end: discovery → architecture → implementation → rollout → **SLI/SLOs** and iteration.
 
----
+<hr/>
 
-## Contact (privacy-friendly)
-- Discord: **<YOUR_DISCORD_HANDLE>**
-- Email: **<YOUR_EMAIL>**
-- Portfolio/Notes: <YOUR_PORTFOLIO_OR_NOTION_LINK>
+## Highlights (selected impact)
+- Built AI-assisted product experiences with **sub-200ms** critical-path responses via caching, streaming, and careful query design.
+- Implemented **event-driven** workflows (webhooks + queues) with idempotency keys and replay safety for fintech-style reliability.
+- Designed secure data access patterns (RBAC / Postgres RLS) aligned with **SOC2/GDPR** expectations.
+- Created evaluation harnesses to reduce hallucinations and regression-risk across prompts, tools, and retrieval changes.
 
-> If you share your goal + constraints (latency, cost, privacy, timeline), I can propose a plan and evaluation criteria quickly.
+<hr/>
+
+## Selected work (pin these repos)
+> Replace links/titles with your real projects. Keep each entry outcome-driven.
+
+### **1) AgentOps Starter Kit** — Production LLM agent scaffolding
+- Tool calling · retries/fallbacks · tracing · prompt/versioning · eval harness  
+- Demo: https://github.com/[you]/agentops-starter · Live: https://[demo_link]
+- Notes: Architecture, safety guardrails, and monitoring included.
+
+### **2) RAG Quality Toolkit** — Grounded retrieval + evaluation
+- Hybrid retrieval · reranking · citation grounding · dataset-based evals  
+- Demo: https://github.com/[you]/rag-quality-toolkit · Report: https://[link]
+
+### **3) Full-Stack SaaS Template** — React + API + Postgres + Auth
+- Multi-tenant patterns · secure DB access · role-based UI · CI/CD  
+- Repo: https://github.com/[you]/saas-template · Live: https://[demo_link]
+
+### **4) Webhooks & Payments Reliability Patterns** — Idempotency + replay safety
+- Webhook verification · dedupe · backoff/retries · audit logs  
+- Repo: https://github.com/[you]/webhooks-reliability
+
+<hr/>
+
+## Core skills
+### AI / Agents / LLM
+- Tool-using agents, orchestration, retries/fallbacks, routing, safety guardrails
+- Retrieval Augmented Generation (RAG), embeddings, reranking, eval harnesses
+- Prompt versioning, offline tests, regression checks, production monitoring
+
+### Full-Stack Engineering
+- **Frontend:** React 18, Next.js, TypeScript, Tailwind, shadcn/ui, Storybook, Vitest
+- **Backend:** Python (FastAPI/Django), Node (Express/Fastify), REST/GraphQL, WebSockets
+- **Data:** Postgres (RLS/JSONB/triggers), Redis, background jobs (Cele
